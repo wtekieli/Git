@@ -1,0 +1,1 @@
+SharePoint connector is a funny connector, Working Copy is the least logical thing ever developed.
